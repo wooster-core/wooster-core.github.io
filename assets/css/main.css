@@ -2419,6 +2419,7 @@
 			margin: 0 0 2em 0;
 			text-align: center;
 			width: 6em;
+			color: #FFCC00;
 		}
 
 			.icon.major:before {
@@ -2427,7 +2428,7 @@
 
 			.icon.major.alt {
 				text-decoration: none;
-				color: #FFCC00;
+
 			}
 
 				.icon.major.alt:before {

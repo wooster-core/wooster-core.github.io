@@ -1578,7 +1578,7 @@
 		-webkit-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		border-bottom: dotted 1px;
+		/* border-bottom: dotted 1px; */
 		color: #FFCC00  /* #e44c65 */ ;
 		text-decoration: none;
 	}
@@ -2385,7 +2385,7 @@
 			font-family: FontAwesome;
 			font-style: normal;
 			font-weight: normal;
-			text-transform: none !important;
+			text-transform: none /*!important*/;
 		}
 
 		.icon > .label {
@@ -2402,11 +2402,11 @@
 				font-family: FontAwesome;
 				font-style: normal;
 				font-weight: normal;
-				text-transform: none !important;
+				text-transform: none /*!important*/;
 			}
 
 			.icon.alt:before {
-				color: #1c1d26 !important;
+				color: #1c1d26 /*!important*/;
 				text-shadow: 1px 0 0 #ffffff, -1px 0 0 #ffffff, 0 1px 0 #ffffff, 0 -1px 0 #ffffff;
 			}
 
@@ -2420,6 +2420,7 @@
 			margin: 0 0 2em 0;
 			text-align: center;
 			width: 6em;
+			color: #FFCC00;
 
 		}
 
@@ -2438,12 +2439,12 @@
 					font-family: FontAwesome;
 					font-style: normal;
 					font-weight: normal;
-					text-transform: none !important;
+					text-transform: none /*!important*/;
 					
 				}
 
 				.icon.major.alt:before {
-					color: #272833 !important;
+					color: #272833 /*!important*/;
 					text-shadow: 1px 0 0 #ffffff, -1px 0 0 #ffffff, 0 1px 0 #ffffff, 0 -1px 0 #ffffff;
 					
 				}

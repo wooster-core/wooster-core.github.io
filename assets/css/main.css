@@ -3088,7 +3088,8 @@
 	}
 
 		.wrapper.style2 {
-			background: #FFCC00 /* #e44c65 */ ;
+			background-image: url("../../images/__banner.jpg");
+			/* background: #FFCC00 /* #e44c65 */ ; */
 		}
 
 			.wrapper.style2 input[type="text"]:focus,

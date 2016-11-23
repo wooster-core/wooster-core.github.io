@@ -3089,6 +3089,7 @@
 
 		.wrapper.style2 {
 			background-image: url("../../images/core_pano.jpg");
+			background-position: center center;
 			/* background: #FFCC00 /* #e44c65 */ ; */
 		}
 

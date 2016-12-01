@@ -3753,7 +3753,7 @@
 				-ms-transition: -ms-transform 0.5s ease;
 				transition: transform 0.5s ease;
 				display: block;
-				height: 64px;
+				height: 82px;
 				left: 0;
 				position: fixed;
 				top: 0;
@@ -3767,8 +3767,8 @@
 					color: #ffffff;
 					display: block;
 					font-weight: 300;
-					height: 64px;
-					line-height: 64px;
+					height: 82px;
+					line-height: 82px;
 					text-align: center;
 				}
 
@@ -3803,9 +3803,9 @@
 						content: '\f0c9';
 						display: block;
 						font-size: 18px;
-						height: 64px;
+						height: 82px;
 						left: 0;
-						line-height: 64px;
+						line-height: 82px;
 						position: absolute;
 						text-align: center;
 						top: 0;

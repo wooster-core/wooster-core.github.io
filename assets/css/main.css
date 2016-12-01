@@ -3708,11 +3708,11 @@
 
 			#banner {
 				box-shadow: 0 0.125em 0.5em 0 rgba(0, 0, 0, 0.25);
-				min-height: calc(100vh - 44px);
+				min-height: calc(100vh - 64px);
 			}
 
 				#banner:before {
-					height: calc(100vh - 44px);
+					height: calc(100vh - 64px);
 				}
 
 				#banner .content {
@@ -3753,7 +3753,7 @@
 				-ms-transition: -ms-transform 0.5s ease;
 				transition: transform 0.5s ease;
 				display: block;
-				height: 44px;
+				height: 64px;
 				left: 0;
 				position: fixed;
 				top: 0;
@@ -3767,8 +3767,8 @@
 					color: #ffffff;
 					display: block;
 					font-weight: 300;
-					height: 44px;
-					line-height: 44px;
+					height: 64px;
+					line-height: 64px;
 					text-align: center;
 				}
 
@@ -3803,9 +3803,9 @@
 						content: '\f0c9';
 						display: block;
 						font-size: 18px;
-						height: 44px;
+						height: 64px;
 						left: 0;
-						line-height: 44px;
+						line-height: 64px;
 						position: absolute;
 						text-align: center;
 						top: 0;
